@@ -2,6 +2,6 @@
 
 int foo(void){
 
-    printf("in foo");
+    printf("in foo\n");
 
 }
